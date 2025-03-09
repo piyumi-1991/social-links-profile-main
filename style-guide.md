@@ -11,13 +11,13 @@ The designs were created to the following widths:
 
 ## Colors
 
-- Green: hsl(75, 94%, 57%)
+- Green: hsl(75, 94%, 57%)  // #c5f82a
 
-- White: hsl(0, 0%, 100%)
+- White: hsl(0, 0%, 100%) // 	#ffffff
 
-- Grey 700: hsl(0, 0%, 20%)
-- Grey 800: hsl(0, 0%, 12%)
-- Grey 900: hsl(0, 0%, 8%)
+- Grey 700: hsl(0, 0%, 20%) // #333333
+- Grey 800: hsl(0, 0%, 12%) // #1f1f1f
+- Grey 900: hsl(0, 0%, 8%) // 	#141414
 
 ## Typography
 
@@ -29,5 +29,3 @@ The designs were created to the following widths:
 
 - Family: [Inter](https://fonts.google.com/specimen/Inter)
 - Weights: 400, 600, 700
-
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma. The design file for this challenge also includes a basic design system to help you build a more accurate solution faster.
